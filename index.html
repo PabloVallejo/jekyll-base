@@ -1,0 +1,17 @@
+---
+layout: default
+title: Jekyll Base
+---
+
+<!-- Show site posts -->
+<div class="container">
+    {% for post in site.posts %}
+
+        <div class="post">
+            <h1>{{ post.title }}</h1>
+            <span>{{ post.date || date: "%B %e, %Y" }}</span>
+            <p>{{ post.content }}</p>
+        </div>
+
+    {% endfor %}
+</div>

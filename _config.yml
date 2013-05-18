@@ -1,0 +1,6 @@
+
+# Makes Jekyll rebuild itself on every file change
+auto: true
+
+# Permalink structure
+permalink: /:year/:month/:day/:title
