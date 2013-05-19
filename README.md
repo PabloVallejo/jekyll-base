@@ -2,7 +2,7 @@ Jekyll Base
 ===========
 
 Jekyll base is a starting point to develop a Jekyll site. it was created as help material
-for my blog posts on how to set up a Jekyll site.
+for my blog post on [Hosting Jekyll sites on GitHub](http://pablovallejo.me/hosting-your-site-in-github-using-jekyll/).
 
 
 ## Quick start
